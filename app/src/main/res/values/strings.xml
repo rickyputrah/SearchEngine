@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Search</string>
+
+    <string name="search_bar_placeholder">Search</string>
+    <string name="search_detail">You choose %1$s</string>
+</resources>
