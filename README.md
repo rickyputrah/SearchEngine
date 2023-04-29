@@ -15,6 +15,9 @@ MVVM
 
 ## How To Run The App
 
+### Environment
+- please make sure you are using JDK 17 since i'm using Java version 17 in this project
+
 ### Run and Install the Application to your Emulator or Connected Device </br>
 
 - ./gradlew :app:installDebug
